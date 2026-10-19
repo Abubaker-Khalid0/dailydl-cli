@@ -1,2 +1,0 @@
-include *.md requirements.lock
-recursive-include tests *.py

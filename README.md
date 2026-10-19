@@ -131,10 +131,6 @@ python -m pip install --upgrade "yt-dlp[curl-cffi]"
 
 `requirements.lock` records the tested environment. Refresh it deliberately after validating updates. Do not commit `.venv`, downloaded media, credentials or generated package files; `.gitignore` already excludes them.
 
-## تشغيل سريع بالعربية
-
-بعد إنشاء البيئة وتثبيت المشروع: شغّل `dailydl --doctor` للتحقق من المتطلبات، ثم `dailydl` للوضع التفاعلي. استخدم `--list` لعرض الجودات والترجمات، و`-q 720` لاختيار الجودة. كل فيديو يُحفظ في مجلد مستقل، والإلغاء أو انتهاء المهلة يزيل الملفات الجزئية.
-
 ## License and attribution
 
 Application code is MIT licensed. Dependencies retain their own licenses; see [THIRD_PARTY.md](THIRD_PARTY.md). This project is not affiliated with Dailymotion. Download only content you are authorized to save.

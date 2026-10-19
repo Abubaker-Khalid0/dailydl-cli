@@ -1,0 +1,11 @@
+# Runtime dependency snapshot verified on Windows / CPython 3.13.
+# Install this file, then: python -m pip install -e .
+yt-dlp==2026.8.19
+curl-cffi==0.16.3
+cffi==2.1.1
+certifi==2026.7.22
+pycparser==3.11
+rich==14.3.4
+markdown-it-py==4.2.0
+mdurl==0.1.2
+pygments==2.21.0
